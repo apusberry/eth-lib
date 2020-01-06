@@ -1,6 +1,6 @@
 {
-  "name": "eth-lib",
-  "version": "0.2.7",
+  "name": "@exodus/eth-lib",
+  "version": "0.2.7-exodus0",
   "description": "Lightweight Ethereum libraries",
   "main": "lib/index.js",
   "scripts": {
