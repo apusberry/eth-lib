@@ -27,6 +27,10 @@
     "ethjs-signer": "^0.1.1",
     "rlp": "^2.0.0"
   },
+  "files": [
+    "lib/**/*.js",
+    "src/**/*.js"
+  ],
   "dependencies": {
     "bn.js": "^4.11.6",
     "elliptic": "^6.4.0",
